@@ -4,7 +4,7 @@ Potpuno responsive layout bez korišćenja framework-a. Korišćen je Mobile Fir
 
 ![Alt text](screenshots/small.png?raw=true "Small layout")
 
-Layout je inicijalno kodiran za male ekrane. Potom su definisane dve prelomne tačke: Za srednje ekrane: 768px - 1024px i za velike ekrane >= 1024px.
+Layout je inicijalno kodiran za male ekrane. Potom su definisane dve prelomne tačke: Za srednje ekrane: 768px - 992px i za velike ekrane >= 922px.
 
 Tablet layout izgleda ovako:
  
